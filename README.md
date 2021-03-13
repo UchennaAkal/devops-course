@@ -1,0 +1,1 @@
+# devops-course saturday yes. 
