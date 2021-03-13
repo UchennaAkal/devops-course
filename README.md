@@ -1,1 +1,1 @@
-# devops-course saturday yes. 
+# devops-course saturday yesterday
